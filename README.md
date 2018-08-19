@@ -16,9 +16,9 @@ Extracted lovingly from [http://mdswanson.com][mds] for your enjoyment!
 [![Live Demo](https://img.shields.io/badge/view-live--demo-blue.svg?style=flat-square)](http://lagom.mdswanson.com/)
 
 ## Action Shots
-![](http://i.imgur.com/Pmzk4j1.png)
-![](http://i.imgur.com/CT2Xvug.png)
-![](http://i.imgur.com/XisjqW1.jpg)
+![](https://i.imgur.com/Pmzk4j1.png)
+![](https://i.imgur.com/CT2Xvug.png)
+![](https://i.imgur.com/XisjqW1.jpg)
 
 ## Installation
 
@@ -62,16 +62,16 @@ me or using a disclaimer or anything silly like that.
 I'd love to hear from you at [@_swanson][twitter]. Feel free to open issues if you
 run into trouble or have suggestions. Pull Requests always welcome.
 
-[j]: http://jekyllrb.com/
-[mds]: http://mdswanson.com
-[skeleton]: http://www.getskeleton.com/
-[font-awesome]: http://fortawesome.github.io/Font-Awesome/
-[gfonts]: http://www.google.com/fonts/specimen/Open+Sans
-[fork]: https://github.com/swanson/lagom/fork
+[j]: https://jekyllrb.com/
+[mds]: https://mdswanson.com
+[skeleton]: https://www.getskeleton.com/
+[font-awesome]: https://fortawesome.github.io/Font-Awesome/
+[gfonts]: https://www.google.com/fonts/specimen/Open+Sans
+[fork]: httpss://github.com/swanson/lagom/fork
 [config]: https://github.com/swanson/lagom/blob/master/_data/theme.yml
 [cname]: https://github.com/swanson/lagom/blob/master/CNAME
 [favicon]: https://github.com/swanson/lagom/blob/master/favicon.png
 [logo]: https://github.com/swanson/lagom/blob/master/logo.png
-[pages]: http://pages.github.com
+[pages]: https://pages.github.com
 [twitter]: https://twitter.com/_swanson
 [pages]: https://github.com/github/pages-gem
